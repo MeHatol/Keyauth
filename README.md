@@ -12,8 +12,11 @@ Replace your server ip(client.py) in line #15
 
 Usage of commands:
 /createkey [Time] (Duration of the key in days)
+
 /removekey [Key] - Remove an existing key 
+
 /keylist - List all keys
+
 /keyinfo [Key] - Shows hwid & Ip of a selected key also shows expiery date 
 
 Todo list:
