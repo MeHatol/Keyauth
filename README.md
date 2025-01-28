@@ -7,9 +7,10 @@ pip install -r reqs.txt
 
 Usage: 
 
-## Keys.json is used as a db for all keys
+ Keys.json is used as a db for all keys
 
 Replace token in a backend.py
+
 Replace your server ip(client.py) in line #15 
 
 Usage of commands:
