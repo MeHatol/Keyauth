@@ -1,0 +1,11 @@
+{
+    "keys": [
+        {
+            "key": "Example key",
+            "expiry": "Example expiry",
+            "hwid": null,
+            "ip": null
+        }
+    ]
+}
+
